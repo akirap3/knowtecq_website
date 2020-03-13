@@ -92,7 +92,7 @@ $ flask run
 3.下載favicon，可以找一些免費的favicon來使用
 - [favicon sources](https://icon-icons.com/icon/search-cat/76679)
 
-產生的.ico檔也要放在static資料夾中
+- 產生的.ico檔也要放在static資料夾中
 - 可以參考如何套用favicon [flask favicon document](https://flask.palletsprojects.com/en/1.1.x/patterns/favicon/)
 
 	![](https://1.bp.blogspot.com/-oOzehZCz38w/Xmps4SI4Y6I/AAAAAAAADfM/yhSbrKeLAlkX-NP3dXLoH4ZMf6u_DeBegCLcBGAsYHQ/s1600/1.png)
