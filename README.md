@@ -1,7 +1,5 @@
 ## Create a website in Pythonanywhere
 
----
-
 ### This is a note in Section 19: Web Development with Python , Complete Python Developer in 2020: Zero to Mastery，The environment I use is windows 10 
 
 > ### 本地端
